@@ -2,7 +2,7 @@ import React from 'react'
 
 const Package = () => {
   return (
-    <div>Package</div>
+    <div>Package is valid</div>
   )
 }
 
