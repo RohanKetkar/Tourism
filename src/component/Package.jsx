@@ -12,8 +12,15 @@ const Package = () => {
       <div>
 {
 
+data.map((element , index ) => {
+  return ( 
+    <div id={index}>
+<img src={element.img}/>
 
-console.log(data)
+<h1></h1>
+      </div>
+  )
+})
 
 }
       </div>
